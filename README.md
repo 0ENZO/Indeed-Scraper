@@ -2,7 +2,7 @@
 
 Ce projet a été développé sur un notebook google colaboratory avec streamlit, ngrok, scraperapi, beautifulsoup et pandas. 
 
-Une petite web app streamlit mise en ligne via ngrok, permettant de récupérer scrapper indeed et de récupérer les offres selon 4 critères: 
+Une petite web app streamlit mise en ligne via ngrok, permettant de scrapper indeed et de récupérer les offres selon 4 critères: 
 
 * Intitulé du poste
 * Type de contrat
@@ -11,7 +11,7 @@ Une petite web app streamlit mise en ligne via ngrok, permettant de récupérer 
 
 Le tout est affiché et téléchargeable au format csv. 
 
-Le projet tient sur un notebook et a été développé exclusivement sur google colaboratory de part sa portabilité. Un environnement qui nous suit où que l'on aille peut importe le support. 
+Le projet tient sur un notebook et a été développé exclusivement sur google colaboratory pour sa portabilité.
 
 
 ## Installation
